@@ -1,0 +1,131 @@
+{
+    "user_1": {
+        "income": 50000,
+        "goals": [
+            "saving"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_2": {
+        "income": 50000,
+        "goals": [
+            "saving",
+            "investing"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_3": {
+        "income": 5000,
+        "goals": [
+            "saving",
+            " investing"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_4": {
+        "income": 50000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_5": {
+        "income": 5000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks",
+            " mutual funds"
+        ]
+    },
+    "user_6": {
+        "income": 50000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_7": {
+        "income": 640,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "mutual funds"
+        ]
+    },
+    "user_8": {
+        "income": 580,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_9": {
+        "income": 5000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_10": {
+        "income": 5876,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_11": {
+        "income": 50000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_12": {
+        "income": 50000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_13": {
+        "income": 5000,
+        "goals": [
+            "savings"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    },
+    "user_14": {
+        "income": 5000,
+        "goals": [
+            "saving"
+        ],
+        "interests": [
+            "stocks"
+        ]
+    }
+}

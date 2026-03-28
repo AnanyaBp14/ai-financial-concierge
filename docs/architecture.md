@@ -97,3 +97,5 @@ Future upgrades:
 ## 7. Key Design Principle
 
 "Simple, modular, and extensible architecture for real-world deployment"
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fd02deb7-e546-47f4-8049-3cc7e80e776f" />
+
